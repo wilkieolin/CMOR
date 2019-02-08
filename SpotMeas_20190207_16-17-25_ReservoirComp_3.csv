@@ -1,0 +1,77 @@
+TestParameter ,Measurement.Type ,reservoirComputing
+TestParameter ,MainFrame
+TestParameter ,Channel.Type ,SMU ,SMU ,SMU ,SMU
+TestParameter ,Channel.Unit ,SMU1:MP ,SMU2:MP ,SMU3:MP ,SMU4:MP
+TestParameter ,Channel.IName ,I1 ,I2 ,I3 ,I4
+TestParameter ,Channel.VName ,V1 ,V2 ,V3 ,V4
+TestParameter ,Channel.Mode ,V ,V ,V ,V
+TestParameter ,Channel.Func ,VAR1 ,VAR1 ,VAR1 ,VAR1
+TestParameter ,Channel.Index , , , ,
+TestParameter ,Channel.Time , , , ,
+TestParameter ,Measurement.Port.SeriesResistance ,ON ,ON ,ON ,ON
+TestParameter ,Measurement.Port.Filter ,0 ,0 ,0 ,0
+TestParameter ,Measurement.Adc.HighSpeed.Mode ,AUTO
+TestParameter ,Measurement.Adc.HighSpeed.Coeff ,  1
+TestParameter ,Measurement.Adc.HighResolution.AutoZero ,  ON
+TestParameter ,Measurement.Adc.HighResolution.Mode ,AUTO
+TestParameter ,Measurement.Adc.HighResolution.Coeff ,  6
+Measurement ,Device ,ReservoirComp_3
+Measurement ,Time ,2019-02-07_16-17-25
+DataName ,  Ignd ,  Ivlow ,  Ivhigh ,  Vout
+Dimension ,  56 ,  56 ,  56 ,  56
+DataValue ,  -0.0005718 ,  0.0005711 ,  3.4505e-07 ,  0.0141
+DataValue ,  -0.0005824 ,  0.00058125 ,  3.4495e-07 ,  1.1404
+DataValue ,  -0.00056185 ,  0.00056175 ,  3.472e-07 ,  0.0165
+DataValue ,  -0.0005711 ,  0.00057 ,  3.463e-07 ,  0.0174
+DataValue ,  -0.0005732 ,  0.0005726 ,  3.471e-07 ,  0.017
+DataValue ,  -0.0005699 ,  0.00057035 ,  3.4845e-07 ,  0.0164
+DataValue ,  -0.00057135 ,  0.00057115 ,  3.4715e-07 ,  0.0159
+DataValue ,  -0.0005812 ,  0.0005812 ,  3.469e-07 ,  1.1366
+DataValue ,  -0.0005716 ,  0.00057175 ,  3.4765e-07 ,  0.0154
+DataValue ,  -0.00056945 ,  0.00056985 ,  3.4795e-07 ,  0.0158
+DataValue ,  -0.00058515 ,  0.00058455 ,  3.475e-07 ,  1.1357
+DataValue ,  -0.00056275 ,  0.00056245 ,  3.4885e-07 ,  0.0178
+DataValue ,  -0.0005723 ,  0.0005711 ,  3.483e-07 ,  0.0189
+DataValue ,  -0.0005723 ,  0.00057125 ,  3.4885e-07 ,  0.0183
+DataValue ,  -0.00058285 ,  0.00058225 ,  3.4845e-07 ,  1.1359
+DataValue ,  -0.000571 ,  0.00057065 ,  3.489e-07 ,  0.0171
+DataValue ,  -0.0005711 ,  0.00056995 ,  3.495e-07 ,  0.0157
+DataValue ,  -0.0005824 ,  0.00058185 ,  3.4875e-07 ,  1.1394
+DataValue ,  -0.00057265 ,  0.0005723 ,  3.4935e-07 ,  0.0168
+DataValue ,  -0.00058335 ,  0.00058155 ,  3.4945e-07 ,  1.1328
+DataValue ,  -0.00057295 ,  0.0005726 ,  3.498e-07 ,  0.018
+DataValue ,  -0.000583 ,  0.0005827 ,  3.498e-07 ,  1.1359
+DataValue ,  -0.0005705 ,  0.0005695 ,  3.498e-07 ,  0.0182
+DataValue ,  -0.00058365 ,  0.00058275 ,  3.5035e-07 ,  1.1366
+DataValue ,  -0.0005702 ,  0.00056985 ,  3.5085e-07 ,  0.0161
+DataValue ,  -0.00057035 ,  0.00057055 ,  3.511e-07 ,  0.0174
+DataValue ,  -0.00057075 ,  0.00057085 ,  3.504e-07 ,  0.0181
+DataValue ,  -0.00057025 ,  0.0005693 ,  3.5075e-07 ,  0.0193
+DataValue ,  -0.000572 ,  0.00057145 ,  3.5075e-07 ,  0.0181
+DataValue ,  -0.0005713 ,  0.00057105 ,  3.511e-07 ,  0.0183
+DataValue ,  -0.00056955 ,  0.0005689 ,  3.511e-07 ,  0.0175
+DataValue ,  -0.00056965 ,  0.0005693 ,  3.511e-07 ,  0.0184
+DataValue ,  -0.00057135 ,  0.0005706 ,  3.5165e-07 ,  0.0157
+DataValue ,  -0.00057145 ,  0.00057115 ,  3.513e-07 ,  0.017
+DataValue ,  -0.0005718 ,  0.00057045 ,  3.5105e-07 ,  0.0195
+DataValue ,  -0.00057105 ,  0.000571 ,  3.5185e-07 ,  0.0187
+DataValue ,  -0.00056995 ,  0.0005689 ,  3.515e-07 ,  0.0186
+DataValue ,  -0.00057255 ,  0.0005714 ,  3.517e-07 ,  0.018
+DataValue ,  -0.0005703 ,  0.00057055 ,  3.5195e-07 ,  0.0179
+DataValue ,  -0.00057065 ,  0.00057 ,  3.5245e-07 ,  0.0186
+DataValue ,  -0.00056955 ,  0.00056945 ,  3.5195e-07 ,  0.0165
+DataValue ,  -0.0005701 ,  0.0005698 ,  3.524e-07 ,  0.018
+DataValue ,  -0.00057195 ,  0.00057215 ,  3.5145e-07 ,  0.0177
+DataValue ,  -0.00057095 ,  0.00056965 ,  3.5295e-07 ,  0.0203
+DataValue ,  -0.0005706 ,  0.00057045 ,  3.529e-07 ,  0.0187
+DataValue ,  -0.0005711 ,  0.0005704 ,  3.5275e-07 ,  0.0183
+DataValue ,  -0.0005718 ,  0.00057045 ,  3.5325e-07 ,  0.0187
+DataValue ,  -0.00057015 ,  0.00056935 ,  3.522e-07 ,  0.018
+DataValue ,  -0.00057095 ,  0.00057065 ,  3.531e-07 ,  0.0163
+DataValue ,  -0.00056915 ,  0.000569 ,  3.529e-07 ,  0.018
+DataValue ,  -0.00057185 ,  0.00057195 ,  3.527e-07 ,  0.0179
+DataValue ,  -0.00057195 ,  0.0005712 ,  3.5285e-07 ,  0.018
+DataValue ,  -0.00057235 ,  0.000572 ,  3.5245e-07 ,  0.018
+DataValue ,  -0.0005725 ,  0.000571 ,  3.521e-07 ,  0.0174
+DataValue ,  -0.0005713 ,  0.00056985 ,  3.526e-07 ,  0.0172
+DataValue ,  -0.00056955 ,  0.00056865 ,  3.521e-07 ,  0.0177
